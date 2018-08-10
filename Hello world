@@ -1,0 +1,21 @@
+//Demo
+#include<stdio.h>
+int main()
+{
+   printf("Hello world!");
+   return 0;
+}
+
+
+// Activity
+#include <stdio.h>
+int main()
+{
+    char a[25];
+    printf("Enter name:\n");
+    gets(a);
+    printf("Name is ");
+    puts(a);
+    return 0;
+}
+
